@@ -1,0 +1,15 @@
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\bin\Debug\net6.0\ConsoleDateTimeApp2.exe
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\bin\Debug\net6.0\ConsoleDateTimeApp2.deps.json
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\bin\Debug\net6.0\ConsoleDateTimeApp2.runtimeconfig.json
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\bin\Debug\net6.0\ConsoleDateTimeApp2.dll
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\bin\Debug\net6.0\ConsoleDateTimeApp2.pdb
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\obj\Debug\net6.0\ConsoleDateTimeApp2.csproj.AssemblyReference.cache
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\obj\Debug\net6.0\ConsoleDateTimeApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\obj\Debug\net6.0\ConsoleDateTimeApp2.AssemblyInfoInputs.cache
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\obj\Debug\net6.0\ConsoleDateTimeApp2.AssemblyInfo.cs
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\obj\Debug\net6.0\ConsoleDateTimeApp2.csproj.CoreCompileInputs.cache
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\obj\Debug\net6.0\ConsoleDateTimeApp2.dll
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\obj\Debug\net6.0\refint\ConsoleDateTimeApp2.dll
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\obj\Debug\net6.0\ConsoleDateTimeApp2.pdb
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\obj\Debug\net6.0\ConsoleDateTimeApp2.genruntimeconfig.cache
+C:\Users\cctro\source\repos\ConsoleDateTimeApp2\obj\Debug\net6.0\ref\ConsoleDateTimeApp2.dll

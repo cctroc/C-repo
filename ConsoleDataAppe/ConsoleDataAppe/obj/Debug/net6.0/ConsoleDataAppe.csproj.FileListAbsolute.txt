@@ -1,0 +1,15 @@
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\bin\Debug\net6.0\ConsoleDataAppe.exe
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\bin\Debug\net6.0\ConsoleDataAppe.deps.json
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\bin\Debug\net6.0\ConsoleDataAppe.runtimeconfig.json
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\bin\Debug\net6.0\ConsoleDataAppe.dll
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\bin\Debug\net6.0\ConsoleDataAppe.pdb
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\obj\Debug\net6.0\ConsoleDataAppe.csproj.AssemblyReference.cache
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\obj\Debug\net6.0\ConsoleDataAppe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\obj\Debug\net6.0\ConsoleDataAppe.AssemblyInfoInputs.cache
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\obj\Debug\net6.0\ConsoleDataAppe.AssemblyInfo.cs
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\obj\Debug\net6.0\ConsoleDataAppe.csproj.CoreCompileInputs.cache
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\obj\Debug\net6.0\ConsoleDataAppe.dll
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\obj\Debug\net6.0\refint\ConsoleDataAppe.dll
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\obj\Debug\net6.0\ConsoleDataAppe.pdb
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\obj\Debug\net6.0\ConsoleDataAppe.genruntimeconfig.cache
+C:\Users\cctro\source\repos\ConsoleDataAppe\ConsoleDataAppe\obj\Debug\net6.0\ref\ConsoleDataAppe.dll

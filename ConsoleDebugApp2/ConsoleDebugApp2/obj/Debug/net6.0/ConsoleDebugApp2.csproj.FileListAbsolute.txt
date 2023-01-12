@@ -1,0 +1,15 @@
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\bin\Debug\net6.0\ConsoleDebugApp2.exe
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\bin\Debug\net6.0\ConsoleDebugApp2.deps.json
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\bin\Debug\net6.0\ConsoleDebugApp2.runtimeconfig.json
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\bin\Debug\net6.0\ConsoleDebugApp2.dll
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\bin\Debug\net6.0\ConsoleDebugApp2.pdb
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\obj\Debug\net6.0\ConsoleDebugApp2.csproj.AssemblyReference.cache
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\obj\Debug\net6.0\ConsoleDebugApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\obj\Debug\net6.0\ConsoleDebugApp2.AssemblyInfoInputs.cache
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\obj\Debug\net6.0\ConsoleDebugApp2.AssemblyInfo.cs
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\obj\Debug\net6.0\ConsoleDebugApp2.csproj.CoreCompileInputs.cache
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\obj\Debug\net6.0\ConsoleDebugApp2.dll
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\obj\Debug\net6.0\refint\ConsoleDebugApp2.dll
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\obj\Debug\net6.0\ConsoleDebugApp2.pdb
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\obj\Debug\net6.0\ConsoleDebugApp2.genruntimeconfig.cache
+C:\Users\cctro\source\repos\ConsoleDebugApp2\ConsoleDebugApp2\obj\Debug\net6.0\ref\ConsoleDebugApp2.dll
